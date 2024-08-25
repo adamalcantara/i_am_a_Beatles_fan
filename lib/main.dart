@@ -7,7 +7,11 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.blueGrey,
+          title: const Text('The Title'),
         ),
+        body: const Center(
+
+        )
       ),
     ),
   );
