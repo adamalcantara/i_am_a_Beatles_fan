@@ -7,12 +7,13 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: const Text('I am a Beatles Fan'),
+          backgroundColor: Colors.black,
         ),
         body: const Center(
           child: Image(
-            image: AssetImage('images/Beatles-Logo.png')
-          )
-        )
+            image: AssetImage('images/beatles_button.png')
+          ),
+        ),
       ),
     ),
   );
