@@ -1,17 +1,10 @@
-# i_am_poor
+# I Am A Beatles Fan
 
-A new Flutter project.
+## Description
 
-## Getting Started
+This is a simple project that was the first in my course to learn Flutter and Dart. Much like an app called "I Am Rich" which cost $999.99 on the App Store and served the simple function to tell people you were rich, this app tells people you're a Beatles fan.
 
-This project is a starting point for a Flutter application.
+The project taught me the basic functionality of Flutter widgets including MaterialApp, Scaffold, AppBar, Center, and Image.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# i_am_poor
+![beatles_iphone](https://github.com/user-attachments/assets/11f9269b-c3bb-4f11-ae8b-0487ffb61b95)
+![beatles_android](https://github.com/user-attachments/assets/fc8816ab-3556-42ca-8dfa-d6dc5bbf3b5a)
