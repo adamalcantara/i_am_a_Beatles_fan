@@ -6,11 +6,12 @@ void main() {
       // The scaffold for the app
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.blueGrey,
-          title: const Text('The Title'),
+          title: const Text('I am a Beatles Fan'),
         ),
         body: const Center(
-
+          child: Image(
+            image: AssetImage('images/Beatles-Logo.png')
+          )
         )
       ),
     ),
