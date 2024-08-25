@@ -6,7 +6,11 @@ void main() {
       // The scaffold for the app
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('I am a Beatles Fan'),
+          title: const Text('I am a Beatles Fan',
+          style: TextStyle(
+              color: Colors.white,
+          )
+          ),
           backgroundColor: Colors.black,
         ),
         body: const Center(
